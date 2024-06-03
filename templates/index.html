@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Store Banner Generator</title>
+</head>
+<body>
+    <h1>Store Banner Generator</h1>
+    <form action="/predict" method="post">
+        <input type="text" name="store_name" placeholder="Store Name" required><br>
+        <input type="text" name="store_concept" placeholder="Store Concept" required><br>
+        <button type="submit">Generate Banner</button>
+    </form>
+    {% if banner_text %}
+    <h2>Banner Text: {{ banner_text }}</h2>
+    {% endif %}
+</body>
+</html>
