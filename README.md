@@ -1,4 +1,4 @@
-# Printify Prompt Engineer Test Task
+# Prompt Engineer Test Task
 
 ### Task Prompt
 
