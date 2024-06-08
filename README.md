@@ -103,7 +103,3 @@ During testing, issues such as the generated text exceeding 50 characters or not
 - `templates/index.html`: The HTML template for the web interface.
 - `static/style.css`: The CSS file for styling (if any).
 - `README.md`: This file.
-
-## Contact
-
-If you have any questions, please feel free to contact me at [your-email@example.com].
