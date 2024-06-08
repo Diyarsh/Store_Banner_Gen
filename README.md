@@ -101,5 +101,5 @@ During testing, issues such as the generated text exceeding 50 characters or not
 
 - `app.py`: The main Flask application file.
 - `templates/index.html`: The HTML template for the web interface.
-- `static/style.css`: The CSS file for styling (if any).
+- `static/style.css`: The CSS file for styling.
 - `README.md`: This file.
